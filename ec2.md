@@ -1,2 +1,2 @@
 ## Paste your link below
-ec2-18-144-24-223.us-west-1.compute.amazonaws.com
+ec2-54-177-86-35.us-west-1.compute.amazonaws.com
